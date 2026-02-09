@@ -5,8 +5,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MohammadSami9555&color=blue)
 
 - 🎓 B.Tech in Computer Science & Engineering  
-- 💻 Interested in Web Development & DSA  
-- 📫 Email: mohammadsami9555@gmail.com  
+- 💻 Interested in Web Development   
+- 📫 Email: mohammadsami7390@gmail.com  
 
 ## 🚀 Tech Stack (Hands-on)
 
