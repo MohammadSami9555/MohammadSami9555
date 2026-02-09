@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Mohammad Sami
 
-<!--
-**MohammadSami9555/MohammadSami9555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Software Engineer from India 🇮🇳
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=MohammadSami9555&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech in Computer Science & Engineering  
+- 💻 Interested in Web Development & DSA  
+- 📫 Email: mohammadsami9555@gmail.com  
+
+## 🚀 Tech Stack (Hands-on)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,graphql" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel" />
+</p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadSami9555&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadSami9555&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSami9555&layout=compact&theme=tokyonight" />
+</p>
+
+
+
