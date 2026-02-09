@@ -11,9 +11,9 @@
 ## 🚀 Tech Stack (Hands-on)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" /><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,graphql" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel" />
 </p>
 
