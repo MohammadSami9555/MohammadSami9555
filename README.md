@@ -17,8 +17,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel" />
 </p>
 
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -26,12 +24,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadSami9555&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSami9555&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 
